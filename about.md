@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Machine learning engineer
 
-### More Information
+## OpenCL projects
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+- [DeepCL](https://github.com/hughperkins/DeepCL)
+- [Torch CL](https://github.com/hughperkins/cltorch)
+- [cuda-on-cl](https://github.com/hughperkins/cuda-on-cl)
+- [tensorflow-cl](https://github.com/hughperkins/tensorflow-cl)
