@@ -1,7 +1,0 @@
----
-layout: post
-title: Test post
-published: true
----
-
-This is a test post...
