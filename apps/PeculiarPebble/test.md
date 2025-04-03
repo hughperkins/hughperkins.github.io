@@ -1,3 +1,7 @@
+layout: page
+title: "Peculiar Pebble - Browser for Google Apps"
+permalink: https://hughperkins.github.io/apps/PeculiarPebble/test
+
 # Test file
 
 ## Are these headings?
