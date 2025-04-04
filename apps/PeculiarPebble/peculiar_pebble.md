@@ -6,7 +6,7 @@ Peculiar Pebble lets you browse around your Google Drive files using a Desktop f
 
 ![an image alt text](https://hughperkins.github.io/apps/PeculiarPebble/images/screenshots/select_youtube.png)
 
-We can do File | New | Google Docs to make a new doc:
+We can do File \| New \| Google Docs to make a new doc:
 
 ![an image alt text](https://hughperkins.github.io/apps/PeculiarPebble/images/screenshots/youtube_folder.png)
 
