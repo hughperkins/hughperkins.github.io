@@ -36,4 +36,6 @@ The two opened docs are visible in the window menu, for easy switching:
 
 ![an image alt text](https://hughperkins.github.io/apps/PeculiarPebble/images/screenshots/window_menu.png)
 
+[Peculiar Pebble Privacy Policy](https://hughperkins.github.io/apps/PeculiarPebble/peculiarpebble_privacy.html)
+
 ![an image alt text](https://hughperkins.github.io/apps/PeculiarPebble/images/peculiarpebble3-512.png "Peculier Pebble"){: width="50" }
