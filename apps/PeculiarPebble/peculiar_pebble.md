@@ -4,7 +4,7 @@
 
 Peculiar Pebble lets you browse around your Google Storage buckets.
 
-![an image alt text](https://hughperkins.github.io/apps/PeculiarPebble/images/screenshots/gsbrowser_auth.png)
+![an image alt text](https://hughperkins.github.io/apps/PeculiarPebble/images/screenshots/gsbrowser_after_auth.png)
 
 You can drag files in. Drag files out. Double-click the files to download and edit them!
 
